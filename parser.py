@@ -6,7 +6,7 @@ from supabase import create_client, Client
 # ==========================================
 # CONFIGURATION
 # ==========================================
-GROQ_API_KEY = "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"
+GROQ_API_KEY = "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"
 SUPABASE_URL = "https://ovajjfkuulwnysrqomoq.supabase.co"
 SUPABASE_KEY = "sb_secret_mdZzm3H0X3RV_VFVwXZUZw_Ry5wuIOE"
 # ==========================================
